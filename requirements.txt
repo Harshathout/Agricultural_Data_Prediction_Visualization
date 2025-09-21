@@ -4,7 +4,10 @@ matplotlib
 seaborn
 transformers
 torch        # For Hugging Face models
-streamlit
-torch
+streamlit>=1.22
+scipy
+scikit-learn
+
+
 
 
