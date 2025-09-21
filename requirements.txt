@@ -1,13 +1,8 @@
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
-transformers
-torch        # For Hugging Face models
-streamlit>=1.22
-scipy
 scikit-learn
-
-
-
-
+transformers
+torch
